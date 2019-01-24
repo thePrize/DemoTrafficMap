@@ -1,3 +1,8 @@
+# Traffic Map
+
+A traffic distruption mab built with React.js and Mapbox Gl JS
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
